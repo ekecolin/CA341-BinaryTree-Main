@@ -1,4 +1,4 @@
-#Name: Colin Ekedigwe, Student number: 20403046 & Name: Gideon Amaechi, Student number: 20364806
+#Name: Colin Ekedigwe, Student number: 20403046 
 
 echo "\n---------------Welcome to the CA341 Binary Tree App!---------------"
 echo '\nPress any [key] to continue\n'
