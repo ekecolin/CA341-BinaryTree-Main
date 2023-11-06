@@ -1,4 +1,4 @@
-/*Name: Colin Ekedigwe, Student number: 20403046 & Name: Gideon Amaechi, Student number: 20364806*/
+/*Name: Colin Ekedigwe, Student number: 20403046*/
 
 /*https://everything2.com/title/Binary+search+trees+in+Prolog*/
 /*A tree takes a value X, a left tree and a right tree */
